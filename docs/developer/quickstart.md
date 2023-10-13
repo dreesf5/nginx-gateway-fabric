@@ -101,6 +101,8 @@ This will build the docker images `nginx-gateway-fabric:<your-user>` and `nginx-
 > [!NOTE]
 > For more information on helm configuration options see the Helm [README](../../deploy/helm-chart/README.md).
 
+[README](/deploy/helm-chart/README.md)
+
    - To install with manifests:
 
       ```shell
